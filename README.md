@@ -1,5 +1,5 @@
 # Format-Windows-Thirds
-Automatically resize three windows to fit on your main display (Windows 10).
+Automatically resize three windows to fit on your main display (Tested on Windows 10).
 
 # Sample-Gui-Appearance
 ![gui](https://user-images.githubusercontent.com/50001455/141906164-baba6e38-ef69-4eb9-9505-7dc9d92609eb.png)
